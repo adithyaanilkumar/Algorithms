@@ -12,6 +12,8 @@ A repo for Algorithms.
 [![GitHub stars](https://img.shields.io/github/stars/adithyaanilkumar/project-zeus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/adithyaanilkumar/project-zeus)
 [![GitHub watchers](https://img.shields.io/github/watchers/adithyaanilkumar/project-zeus.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/kaiiyer/adithyaanilkumar/project-zeus)
 
+Please 🌟 and fork the repo!
+
 This is a repo for contributing algorithms in different languages.
 
 Adding algorithms for specific languages in the specified folder is necessary.
