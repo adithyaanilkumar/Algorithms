@@ -48,9 +48,17 @@ Commit and push
 
 Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo).
 
-Wait for your PR review and merge approval 
+Wait for your PR review and merge approval!
 
-<b>Star this repository if you had fun</b>
+##### **Important links to watch out for**
+  * 🔗 [_**Ways of Contributing**_](CONTRIBUTING.md)
+  * 🔗 [_**Code of Conduct**_](CODE_OF_CONDUCT.md)
+
+PS: Star this repo while you're at it :) ⭐⭐⭐⭐⭐
+
+
+
+
 
 
 
