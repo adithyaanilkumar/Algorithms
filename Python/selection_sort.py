@@ -21,13 +21,13 @@ def selection_sort(nums):
 random_list_of_nums = [12, 8, 3, 20, 11]
 selection_sort(random_list_of_nums)
 
-print(random_list_of_nums)
 # Expected Result: [3,8,11,12,20]
+print(random_list_of_nums)
 
 # Example 2: [9,12,1,4,5,7,8]
 random_list_of_nums = [9, 12, 1, 4, 5, 7, 8]
 selection_sort(random_list_of_nums)
 
-print(random_list_of_nums)
 # Expected Result: [1, 4, 5, 7, 8, 9, 12]
+print(random_list_of_nums)
 
