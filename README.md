@@ -35,8 +35,8 @@ Create a branch
 
 Make your changes
     
- - Add any new useful links to resources with respect to pentesting and vulnerable testintg environments
- - Add your name to the CONTRIBUTORS.md file
+ - Add any new useful links to resources with respect to the project
+
 
 Commit and push
 
