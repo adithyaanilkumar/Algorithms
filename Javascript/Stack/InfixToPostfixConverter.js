@@ -4,7 +4,7 @@ let infixExp = "A+$B*C-D+E/F/(G+H)";
 let stack = [];
 let postFix = "";
 
-stack.peek = () => {
+Array.prototype.peek = () => {
   if (stack.length) return stack[stack.length - 1];
   return 0;
 };
@@ -14,8 +14,8 @@ const isOperand = (x) => {
 };
 
 const value = {
+  "$": 4, // for unary operators
   "^": 3,
-  "$": 3,
   "*": 2,
   "/": 2,
   "+": 1,
