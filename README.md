@@ -14,7 +14,7 @@ A repo for Algorithms.
 
 Please 🌟 and fork the repo!
 
-This is a repo for contributing algorithms in different languages.
+This is a repo for contributing algorithms in different programming languages.
 
 Adding algorithms for specific languages in the specified folder is necessary.
 Create your own folder if it doesn't exist.
